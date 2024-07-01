@@ -1,0 +1,27 @@
+.parent{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 5px 10px;
+    background-image: url(https://www.inventiva.co.in/wp-content/uploads/2023/02/Why-business-analyst-is-a-must-for-proper-app-development.png);
+    width: 100vw;
+    height: 350px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent2 {
+    display: flex;
+    width: 100vw;
+}
+button {
+    position: relative;
+    background-color: rgb(106, 176, 219);
+    margin: 0;
+    width: 150px;
+    height: 60px;
+}
+i{
+    font-size: x-large;
+}
